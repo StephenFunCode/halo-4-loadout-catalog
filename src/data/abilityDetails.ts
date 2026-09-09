@@ -67,8 +67,8 @@ export const ABILITY_DETAILS: Record<string, ClickDetail> = {
       "As the sphere forms, a short kinetic blast can shove vehicles, ammo crates, and rockets away. That push is a pulse on activation, not a lasting knockback.",
       "You lock in place for about 1.5 seconds and leave a stationary green sphere where you stood. It does not follow you. The sphere is about ten Spartans across.",
       "Without the field, shields wait about 6 seconds after the last hit, then fill in about 2 seconds. Inside the field there is no wait: about 3 seconds to full if you are not taking fire.",
-      "Anyone inside has their energy shields restored: you, allies, and enemies. It does not block fire. Walk out and your regen stops; the field stays until it expires.",
-      "Inside the field, vision is blurry and sound is distorted. Once shields are full, leaving clears that up.",
+      "Anyone inside has their energy shields restored: you, allies, and enemies. It does not block fire. The field stays until it expires.",
+      "Inside the field, vision is blurry and sound is distorted. Leaving clears that up.",
     ],
   },
 };
