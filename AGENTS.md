@@ -97,8 +97,9 @@ Active Camouflage jammer is **6 light-blue pips** (local test, not the old “~8
 | Explosives 25%/25% does not change Pulse | Local observation (this repo’s maintainer) |
 | Drop Recon extra seconds, off-screen arrow, farther HUD waypoints | David Ellis (343) in [IGN Engineer / Halo Diehards recap](https://www.halodiehards.net/halo-4-specializations-breakdown/) (Ryan McCaffrey, Aug 2012) |
 | Drop Recon is map Initial and Random ordnance, not personal | [Fandom Ordnance](https://halo.fandom.com/wiki/Ordnance_(Multiplayer)) |
+| Nemesis HUD icon lasts a few seconds after spawn | 343 podcast via [denkirson packages thread](https://denkirson.proboards.com/thread/5170/halo-4-packages) (“a few seconds”). Halo Bulletin 8.15.12: “short window of intelligence” ([HaloFanForLife](https://halofanforlife.com/?p=2616)). Halopedia has no duration. |
 
-Do not use Fandom’s 10s vs 12s warning times (they conflict). Do not mention Engineer unlock on the card.
+Do not use Fandom’s 10s vs 12s warning times (they conflict). Do not mention Engineer unlock on the card. Do not put Giant Bomb’s 4s or GameRant’s 3–5s on Nemesis until a local stopwatch.
 
 ## TTK and rate of fire
 

@@ -57,7 +57,8 @@ export const SUPPORT_DETAILS: Record<string, ClickDetail> = {
   },
   Nemesis: {
     facts: [
-      "After you die, a HUD icon points at the player who got that kill, including through walls.",
+      "The HUD icon lasts a few seconds after you spawn, then it is gone.",
+      "It points at the player who got the kill, including through walls.",
       "They also light up on your motion tracker. The mark moves to whoever last killed you.",
     ],
   },
