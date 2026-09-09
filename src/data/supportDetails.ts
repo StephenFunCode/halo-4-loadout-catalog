@@ -28,8 +28,8 @@ export const SUPPORT_DETAILS: Record<string, ClickDetail> = {
   },
   Explosives: {
     facts: [
-      "It does not change a Pulse Grenade's field.",
-      "Your grenade blast radius is 25% larger. Incoming grenade damage is 25% lower.",
+      "It does not affect a Pulse Grenade.",
+      "Frag and Plasma blast radius is 25% larger. Incoming Frag and Plasma damage is 25% lower.",
     ],
   },
   "Ordnance Priority": {
@@ -51,8 +51,9 @@ export const SUPPORT_DETAILS: Record<string, ClickDetail> = {
   },
   Stealth: {
     facts: [
+      "Promethean Vision sees you as an outline, not a filled shape.",
+      "Sprinting is quieter. You still show on the motion tracker.",
       "Assassinations are 20% faster.",
-      "Promethean Vision sees you as a thinner profile, not a full shape. Footsteps are quieter.",
     ],
   },
   Nemesis: {
