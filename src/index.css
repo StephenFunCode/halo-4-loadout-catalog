@@ -166,6 +166,7 @@ h2 {
 .compare.has-effect td:nth-child(2),
 .compare.has-effect th:nth-child(2) {
   white-space: normal;
+  min-width: 12.5em;
 }
 
 .compare tbody td:first-child {
