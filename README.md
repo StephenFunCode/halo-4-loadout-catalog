@@ -1,5 +1,7 @@
 # Halo 4 Loadouts
 
+**Live site:** [stephenfuncode.github.io/halo-4-loadout-catalog](https://stephenfuncode.github.io/halo-4-loadout-catalog/)
+
 Fan catalog of Halo 4 MCC loadout stats. Compare Primary, Secondary, Grenade, Armor Ability, Tactical, and Support in MCC order. Click a row for mechanics that are not already in the table.
 
 Not a kit builder. Not affiliated with 343 Industries or Microsoft.
